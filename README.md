@@ -27,7 +27,7 @@ Pré-requisito, instalar o Android Studio e ter um emulador Android criado no AV
 npm run start
 ```
 
-Em seguida, selecionar a opção **a - run on Android**. Em pouco tempo, o emulador Android irá inicializar, e a aplicação irá ser instalada no dispositivo. Caso dê timeout (por causa da inicialização do dispositivo e instalação da aplicação), no Metro, pode selecionar a opção **r** para recarregar a aplicação.
+Em seguida, selecionar a opção **a - run on Android**. Em pouco tempo, o emulador Android irá inicializar, e a aplicação irá ser instalada no dispositivo. Caso dê timeout (por causa da inicialização do dispositivo e instalação da aplicação), no Metro, pode selecionar a opção **r - reload the app** para recarregar a aplicação.
 
 ## Testando o site previamente publicado no GitHub Pages
 
